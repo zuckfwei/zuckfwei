@@ -1,6 +1,6 @@
 **AI & Machine Learning Research | Backend Developer**
 
-Interesse em pesquisa na área de **Inteligência Artificial e Machine Learning**, com foco no desenvolvimento de soluções que integram IA à engenharia.
+Interesse em pesquisa na área de Inteligência Artificial e Machine Learning, com foco no desenvolvimento de soluções que integram IA à engenharia.
 
 Tenho interesse em compreender sistemas em profundidade, desde sua arquitetura e infraestrutura até seus mecanismos de comunicação, autenticação e segurança.
 
